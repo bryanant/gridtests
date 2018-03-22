@@ -53,12 +53,6 @@ table {
 /* -------------------------------------
 ---------------RESET ABOVE -------------
 ------------------------------------- */
-:root {
-  --borderSizing: 1px;
-  --paddingSizing: .25em;
-  --BarAnim: 1s barAnim 1 forwards cubic-bezier(0.25, 0.1, 0.25, 1);
-  --TextAnim: 1s textAnim 1 forwards cubic-bezier(0.25, 0.1, 0.25, 1); }
-
 body {
   height: 100%;
   width: 100%; }

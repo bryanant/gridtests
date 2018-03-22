@@ -59,14 +59,6 @@ table {
 ---------------RESET ABOVE -------------
 ------------------------------------- */
 
-:root {
-    --borderSizing: 1px;
-    --paddingSizing: .25em;
-
-    --BarAnim  : 1s barAnim 1 forwards cubic-bezier(0.250, 0.100, 0.250, 1.000);
-    --TextAnim : 1s textAnim 1 forwards cubic-bezier(0.250, 0.100, 0.250, 1.000);
-}
-
 body {
     height: 100%;
     width: 100%;
